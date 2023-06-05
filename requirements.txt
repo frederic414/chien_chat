@@ -3,6 +3,6 @@ numpy
 opencv-python
 packaging
 Pillow
-tensorflow
+tensorflow-lite
 urllib3
 uvicorn
